@@ -1,7 +1,7 @@
 class Dloop {
     constructor(genome) {
         this.brain = genome;
-        this.brain.score = 1;
+        this.brain.score = 0;
 
         //Attributes
         this.pos = createVector(random(width), random(height));
