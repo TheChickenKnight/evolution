@@ -20,6 +20,7 @@ class Dloop {
         //State
         this.energy = 100;
         this.health = 100;
+        this.maturity = 0;
     }
 
 
